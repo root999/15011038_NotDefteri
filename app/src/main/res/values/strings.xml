@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SemesterProjectv_0_7</string>
+    <string name="title_home">Ana Sayfa</string>
+    <string name="title_addNote">Not Ekle</string>
+    <string name="title_searchNote">Not Ara</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_save">Kaydet</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="title_date">Tarih Hatırlatma</string>
+    <string name="title_gps">Konum Hatırlatma</string>
+    <string name="title_konum">Konum Al</string>
+    <string name="title_Reminder">Hatırlatıcı Oluştur</string>
+    <string name="title_latitude">Enlem</string>
+    <string name="title_longtitude">Boylam</string>
+    <string name="title_baslik">Başlık</string>
+    <string name="title_TS">Tarih-Saat</string>
+    <string name="title_adres">Adres</string>
+    <string name="title_oncelik">Öncelik</string>
+    <string name="title_dosyaekle">Dosya Ekle</string>
+    <string name="title_update">Notu Güncelle</string>
+    <string name="channel_name">MobilProgramming</string>
+    <string name="channel_description">testNotification</string>
+</resources>
